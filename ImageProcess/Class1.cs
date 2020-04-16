@@ -18,7 +18,7 @@ namespace ImageProcess
             // Local iconic variables 
 
             // Local control variables 
-
+            HObject Line = null;
             HTuple hv_ModelID1 = null, hv_ModelID2 = null;
             HTuple hv_ModelID3 = null, hv_ModelID4 = null, hv_ModelID = null;
             // Initialize local and output iconic variables 
